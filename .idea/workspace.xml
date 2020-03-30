@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3db2800-5440-4fa9-ac10-fcd5aba009aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZdEYT9SWhGZZdWMrRhwlaiF9eJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fernanda.kubayashi\automacao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fernanda.kubayashi\automacao" />
+      <recent name="C:\Users\fernanda.kubayashi\automacao\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CadastroConta.validarLogin">
+    <configuration name="CadastroConta.cadastroUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastroConta" />
+      <option name="METHOD_NAME" value="cadastroUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroConta.criarConta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastroConta" />
+      <option name="METHOD_NAME" value="criarConta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroConta.criarMovimentacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastroConta" />
+      <option name="METHOD_NAME" value="criarMovimentacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroConta.validarLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastroConta" />
+      <option name="METHOD_NAME" value="validarLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroEDelete.selecionaLista" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastroEDelete" />
+      <option name="METHOD_NAME" value="selecionaLista" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CadastroConta.validarLogin" />
+        <item itemvalue="JUnit.CadastroConta.criarMovimentacao" />
+        <item itemvalue="JUnit.CadastroEDelete.selecionaLista" />
+        <item itemvalue="JUnit.CadastroConta.cadastroUsuario" />
+        <item itemvalue="JUnit.CadastroConta.criarConta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3db2800-5440-4fa9-ac10-fcd5aba009aa" name="Default Changelist" comment="" />
+      <created>1585160618020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585160618020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1585590280200">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590280200" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585313426279" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-249.-1080.1920.1040@0.0.1366.728" timestamp="1585169964488" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1585590280200">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590280200" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585313426279" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-249.-1080.1920.1040@0.0.1366.728" timestamp="1585169964487" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1585590280200">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590280200" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585313426279" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-249.-1080.1920.1040@0.0.1366.728" timestamp="1585169964487" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1585590280200">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590280200" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585313426279" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-249.-1080.1920.1040@0.0.1366.728" timestamp="1585169964487" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585590031086">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590031086" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585253714694" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585590031086">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590031086" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585253714694" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585590031086">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590031086" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585253714694" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585590031086">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1366.728/-249.-1080.1280.680@-249.-1080.1280.680" timestamp="1585590031086" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585253714694" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1585328789114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585328789114" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/-249.-1080.1920.1040@0.0.1366.728" timestamp="1585163702038" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585327846330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585327846330" />
+    <state x="-62" y="-1049" width="1007" height="507" maximized="true" key="dock-window-1" timestamp="1585250249945">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state x="-62" y="-1049" width="1007" height="507" maximized="true" key="dock-window-1/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585250249945" />
+    <state x="474" y="-1080" width="564" height="687" maximized="true" key="dock-window-2" timestamp="1585327849615">
+      <screen x="-249" y="-1080" width="1280" height="680" />
+    </state>
+    <state x="474" y="-1080" width="564" height="687" maximized="true" key="dock-window-2/0.0.1366.728/-249.-1080.1280.680@0.0.1366.728" timestamp="1585327849615" />
+  </component>
+</project>
